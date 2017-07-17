@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:selectableItemBackground">@drawable/drawer_item</item>
+    </style>
+
+
+
+    <style name="NavigationDrawerStyle" >
+    <item name="android:textSize">18sp
+    </item>
+    </style>
+
+
+
+    <style name="list_live" >
+        <item name="android:textColor">@color/colorPrimary
+        </item>
+    </style>
+
+    <style name="button" >
+        <item name="android:textColor">#fbf7f7</item>
+        <item name="android:background">#000000</item>
+        <item name="android:textSize">18dp</item>
+
+    </style>
+
+    <style name="nav_action" >
+        <item name="android:background">#03A9F4
+        </item>
+    </style>
+
+</resources>

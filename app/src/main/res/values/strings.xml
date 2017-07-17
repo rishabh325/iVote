@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationApp</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="live">
+        <item>MCD Elections, Delhi</item>
+        <item>Uttar Pradesh Assembly Elections</item>
+    </string-array>
+
+</resources>

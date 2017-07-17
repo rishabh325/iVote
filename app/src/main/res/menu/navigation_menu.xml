@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+         android:title="Home"
+        android:icon="@mipmap/ic_home" />
+    <item android:id="@+id/nav_register"
+        android:title="Register"
+        android:icon="@mipmap/ic_register"/>
+    <item android:id="@+id/nav_login"
+        android:title="Login"
+        android:icon="@mipmap/ic_login"/>
+    <item android:id="@+id/nav_setting"
+        android:title="Setting"
+        android:icon="@mipmap/ic_setting"/>
+    <item android:id="@+id/nav_election"
+        android:title="Live Elections"
+        android:icon="@mipmap/ic_live"/>
+</menu>
